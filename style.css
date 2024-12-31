@@ -77,6 +77,10 @@ form button:hover{
 footer{ 
     padding:10px;
 }
+footer a{
+    text-decoration:none;
+    color:#f95d9b;
+}
  
 header, footer{
     background-color:#161748;
